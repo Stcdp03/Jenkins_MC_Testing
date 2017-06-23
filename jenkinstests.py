@@ -5,3 +5,6 @@ def test_answer():
 
 def test_answer2():
     assert func('Hey') == 'Hello'
+
+def test_answer3():
+    assert func('Helloo') == 'Hello'

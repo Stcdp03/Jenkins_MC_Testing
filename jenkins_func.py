@@ -3,6 +3,7 @@
 """
 def func(word):
     # If the word given is Hello, it will give back World
-    if word == 'Hello':
+    if word == "Hello":
         return "World"
+    # Otherwise, return the word Hello
     return "Hello"
